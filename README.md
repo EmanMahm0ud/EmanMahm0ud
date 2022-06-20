@@ -1,4 +1,4 @@
-<h1 align=center> Hi there, I'm Eman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align=center> Hi there, I'm Eman <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" height="40px"></h1>
 
 I'm a frontend developer who loves making designs and animations using HTML and CSS. I also care about website accessibility and performance.
 
